@@ -32,6 +32,6 @@ else:
         print("Your total bill is: ", menu[Order1]+menu[Order2])
     
 print("Thank you for ordering")
-print("please visit again")
+print("please visit again!")
 
 #end of the code
